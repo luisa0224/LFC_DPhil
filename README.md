@@ -1,2 +1,6 @@
 # LFC_DPhil
-Repository for all coding during my DPhil. Luisa Fernandez Chirino.
+
+This is the repo for all the scripts done during the DPhil in Population Health.
+
+**Project title: *Genetic Determinants of Chronic Kidney Disease* ** 
+
